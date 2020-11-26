@@ -9,8 +9,13 @@ tqdm = "*"
 peewee = "*"
 ciso8601 = "*"
 strtotime = "*"
+jieba = "*"
+fasttext = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
+autopep8 = "*"
 
 [requires]
 python_version = "3.7"
