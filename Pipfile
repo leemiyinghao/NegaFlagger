@@ -13,6 +13,9 @@ jieba = "*"
 fasttext = "*"
 numpy = "*"
 matplotlib = "*"
+fnv = "*"
+hickle = "*"
+scikit-learn = "*"
 
 [dev-packages]
 autopep8 = "*"
